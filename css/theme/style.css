@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    width: 360px;
+    margin: 0 auto;
+}
+label {
+    display: block;
+}
+input {
+    width: 100%;
+}
+.form__group {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
